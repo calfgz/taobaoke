@@ -1,0 +1,12 @@
+CREATE TABLE category(
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR NOT NULL ,
+  create_at DATE NOT NULL
+);
+
+CREATE TABLE category(
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR NOT NULL ,
+  create_at DATE NOT NULL
+);
+
